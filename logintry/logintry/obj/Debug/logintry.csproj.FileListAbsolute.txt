@@ -1,0 +1,120 @@
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\logintry.dll.config
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\logintry.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\logintry.pdb
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\csc.exe
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\csc.exe.config
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\csc.rsp
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\csi.exe
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\csi.exe.config
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\csi.rsp
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.AppContext.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Console.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.IO.Compression.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Security.Claims.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.ValueTuple.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\vbc.exe
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\vbc.exe.config
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\vbc.rsp
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\obj\Debug\logintry.csprojAssemblyReference.cache
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\obj\Debug\logintry.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\obj\Debug\logintry.csproj.CopyComplete
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\obj\Debug\logintry.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\obj\Debug\logintry.pdb
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\EntityFramework.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\EntityFramework.SqlServer.dll
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\EntityFramework.xml
+C:\Users\Vaio\Documents\Visual Studio 2017\Projects\logintry\logintry\bin\EntityFramework.SqlServer.xml
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\logintry.dll.config
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\logintry.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\logintry.pdb
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\csc.exe
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\csc.exe.config
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\csc.rsp
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\csi.exe
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\csi.exe.config
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\csi.rsp
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.AppContext.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Console.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.IO.Compression.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Security.Claims.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.ValueTuple.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\vbc.exe
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\vbc.exe.config
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\vbc.rsp
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\VBCSCompiler.exe
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\EntityFramework.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\EntityFramework.SqlServer.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\EntityFramework.xml
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\EntityFramework.SqlServer.xml
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\obj\Debug\logintry.csprojAssemblyReference.cache
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\obj\Debug\logintry.csproj.CoreCompileInputs.cache
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\obj\Debug\logintry.csproj.CopyComplete
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\obj\Debug\logintry.dll
+C:\Users\ok\Desktop\GGGGG\trylogin\logintry\logintry\obj\Debug\logintry.pdb
